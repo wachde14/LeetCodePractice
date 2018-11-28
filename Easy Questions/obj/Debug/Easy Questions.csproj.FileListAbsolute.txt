@@ -6,3 +6,12 @@ C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.xm
 C:\LeetCodePractice\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.csprojResolveAssemblyReference.cache
 C:\LeetCodePractice\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.dll
 C:\LeetCodePractice\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.pdb
+C:\LeetCodePractice\Easy Questions\bin\Debug\Easy Questions.dll
+C:\LeetCodePractice\Easy Questions\bin\Debug\Easy Questions.pdb
+C:\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.dll
+C:\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.pdb
+C:\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.xml
+C:\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.csproj.CoreCompileInputs.cache
+C:\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.csproj.CopyComplete
+C:\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.dll
+C:\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.pdb
