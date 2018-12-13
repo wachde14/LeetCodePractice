@@ -1,0 +1,10 @@
+C:\LeetCodePractice\Medium Questions\bin\Debug\Medium Questions.dll
+C:\LeetCodePractice\Medium Questions\bin\Debug\Medium Questions.pdb
+C:\LeetCodePractice\Medium Questions\bin\Debug\nunit.framework.dll
+C:\LeetCodePractice\Medium Questions\bin\Debug\nunit.framework.pdb
+C:\LeetCodePractice\Medium Questions\bin\Debug\nunit.framework.xml
+C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.csproj.CoreCompileInputs.cache
+C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.csproj.CopyComplete
+C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.dll
+C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.pdb
+C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.csprojAssemblyReference.cache
