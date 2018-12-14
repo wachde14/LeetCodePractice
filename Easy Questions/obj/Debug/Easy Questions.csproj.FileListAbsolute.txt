@@ -16,3 +16,8 @@ C:\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.csproj.CopyComplete
 C:\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.dll
 C:\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.pdb
 C:\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.csprojAssemblyReference.cache
+C:\LeetCodePractice\Easy Questions\bin\Debug\FluentAssertions.dll
+C:\LeetCodePractice\Easy Questions\bin\Debug\System.ValueTuple.dll
+C:\LeetCodePractice\Easy Questions\bin\Debug\FluentAssertions.pdb
+C:\LeetCodePractice\Easy Questions\bin\Debug\FluentAssertions.xml
+C:\LeetCodePractice\Easy Questions\bin\Debug\System.ValueTuple.xml

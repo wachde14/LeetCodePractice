@@ -8,3 +8,8 @@ C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.csproj.CopyCompl
 C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.dll
 C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.pdb
 C:\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.csprojAssemblyReference.cache
+C:\LeetCodePractice\Medium Questions\bin\Debug\FluentAssertions.dll
+C:\LeetCodePractice\Medium Questions\bin\Debug\System.ValueTuple.dll
+C:\LeetCodePractice\Medium Questions\bin\Debug\FluentAssertions.pdb
+C:\LeetCodePractice\Medium Questions\bin\Debug\FluentAssertions.xml
+C:\LeetCodePractice\Medium Questions\bin\Debug\System.ValueTuple.xml
