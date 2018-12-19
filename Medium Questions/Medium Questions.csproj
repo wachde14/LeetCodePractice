@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddTwoNumbersWithLinkedList.cs" />
+    <Compile Include="ColorfulNumbers.cs" />
     <Compile Include="DataStructures\ListNode.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
