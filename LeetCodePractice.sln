@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Questions", "Easy Ques
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium Questions", "Medium Questions\Medium Questions.csproj", "{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hard Questions", "Hard Questions\Hard Questions.csproj", "{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

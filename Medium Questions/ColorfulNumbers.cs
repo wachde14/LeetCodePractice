@@ -41,7 +41,7 @@ namespace Medium_Questions
         ColorfulNumbers _practice = new ColorfulNumbers();
 
         [Test]
-        public void ColorfulNumbers_WithValidLists_ShouldReturnExpected()
+        public void ColorfulNumbers_WithColorfulArray_ShouldReturnTrue()
         {
             int[] a = { 3, 5, 4, 2 };
 
@@ -51,7 +51,7 @@ namespace Medium_Questions
         }
 
         [Test]
-        public void ColorfulNumbers_WithValidLists_ShouldReturnExpected2()
+        public void ColorfulNumbers_WithColorfulArray2_ShouldReturnTrue()
         {
             int[] a = { 2, 6, 3 };
 
@@ -61,7 +61,7 @@ namespace Medium_Questions
         }
 
         [Test]
-        public void ColorfulNumbers_WithValidLists_ShouldReturnExpected3()
+        public void ColorfulNumbers_WithNonColorfulArray_ShouldReturnFalse()
         {
             int[] a = { 2, 3, 6 };
 
