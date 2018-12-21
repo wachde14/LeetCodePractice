@@ -60,6 +60,8 @@
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="PhoneNumberGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WordSearch.cs" />
+    <Compile Include="WordSearchSnaking.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
