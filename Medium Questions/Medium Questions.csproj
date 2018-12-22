@@ -57,7 +57,9 @@
     <Compile Include="ColorfulNumbers.cs" />
     <Compile Include="ColorfulRainbowNumbers.cs" />
     <Compile Include="DataStructures\ListNode.cs" />
+    <Compile Include="FindAllPossiblePasswords.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
+    <Compile Include="PasswordValidator.cs" />
     <Compile Include="PhoneNumberGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WordSearch.cs" />
