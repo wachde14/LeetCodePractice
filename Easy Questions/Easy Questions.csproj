@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="PrintSpiralMatrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseInteger.cs" />
     <Compile Include="TwoSum.cs" />
   </ItemGroup>
   <ItemGroup>
