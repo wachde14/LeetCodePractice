@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountPrimes.cs" />
     <Compile Include="LengthOfLastWord.cs" />
     <Compile Include="MergeSortedArrays.cs" />
     <Compile Include="PrintSpiralMatrix.cs" />

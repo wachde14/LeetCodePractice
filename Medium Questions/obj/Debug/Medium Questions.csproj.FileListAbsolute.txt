@@ -25,4 +25,3 @@ C:\LeetCodePractice\LeetCodePractice\Medium Questions\bin\Debug\nunit.framework.
 C:\LeetCodePractice\LeetCodePractice\Medium Questions\bin\Debug\System.ValueTuple.xml
 C:\LeetCodePractice\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.dll
 C:\LeetCodePractice\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.pdb
-C:\LeetCodePractice\LeetCodePractice\Medium Questions\obj\Debug\Medium Questions.csprojResolveAssemblyReference.cache

@@ -13,6 +13,5 @@ C:\LeetCodePractice\LeetCodePractice\Hard Questions\bin\Debug\Hard Questions.pdb
 C:\LeetCodePractice\LeetCodePractice\Hard Questions\bin\Debug\nunit.framework.dll
 C:\LeetCodePractice\LeetCodePractice\Hard Questions\bin\Debug\nunit.framework.pdb
 C:\LeetCodePractice\LeetCodePractice\Hard Questions\bin\Debug\nunit.framework.xml
-C:\LeetCodePractice\LeetCodePractice\Hard Questions\obj\Debug\Hard Questions.csprojResolveAssemblyReference.cache
 C:\LeetCodePractice\LeetCodePractice\Hard Questions\obj\Debug\Hard Questions.dll
 C:\LeetCodePractice\LeetCodePractice\Hard Questions\obj\Debug\Hard Questions.pdb
