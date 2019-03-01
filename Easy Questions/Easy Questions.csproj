@@ -56,6 +56,7 @@
     <Compile Include="CountPrimes.cs" />
     <Compile Include="LengthOfLastWord.cs" />
     <Compile Include="MergeSortedArrays.cs" />
+    <Compile Include="PowerOfTwo.cs" />
     <Compile Include="PrintSpiralMatrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseInteger.cs" />
