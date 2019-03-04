@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="CountPrimes.cs" />
     <Compile Include="IsomorphicStrings.cs" />
+    <Compile Include="JewelsAndStones.cs" />
     <Compile Include="LengthOfLastWord.cs" />
     <Compile Include="MergeSortedArrays.cs" />
     <Compile Include="PowerOfTwo.cs" />
