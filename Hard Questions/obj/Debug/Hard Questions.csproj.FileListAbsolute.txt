@@ -15,3 +15,4 @@ C:\LeetCodePractice\LeetCodePractice\Hard Questions\bin\Debug\nunit.framework.pd
 C:\LeetCodePractice\LeetCodePractice\Hard Questions\bin\Debug\nunit.framework.xml
 C:\LeetCodePractice\LeetCodePractice\Hard Questions\obj\Debug\Hard Questions.dll
 C:\LeetCodePractice\LeetCodePractice\Hard Questions\obj\Debug\Hard Questions.pdb
+C:\LeetCodePractice\LeetCodePractice\Hard Questions\obj\Debug\Hard Questions.csprojResolveAssemblyReference.cache
