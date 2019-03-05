@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CountPrimes.cs" />
+    <Compile Include="FindCommonCharacters.cs" />
     <Compile Include="IsomorphicStrings.cs" />
     <Compile Include="JewelsAndStones.cs" />
     <Compile Include="LengthOfLastWord.cs" />
