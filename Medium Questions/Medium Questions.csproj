@@ -63,6 +63,7 @@
     <Compile Include="PasswordValidator.cs" />
     <Compile Include="PhoneNumberGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SortColors.cs" />
     <Compile Include="StringPermutationsWithSpecialCharacters.cs" />
     <Compile Include="TransformWordBySorting.cs" />
     <Compile Include="WordSearch.cs" />

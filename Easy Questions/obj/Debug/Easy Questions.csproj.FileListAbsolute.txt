@@ -1,10 +1,3 @@
-C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\Easy Questions.dll
-C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\Easy Questions.pdb
-C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.dll
-C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.pdb
-C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.xml
-C:\LeetCodePractice\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.dll
-C:\LeetCodePractice\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.pdb
 C:\LeetCodePractice\Easy Questions\bin\Debug\Easy Questions.dll
 C:\LeetCodePractice\Easy Questions\bin\Debug\Easy Questions.pdb
 C:\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.dll
@@ -19,9 +12,15 @@ C:\LeetCodePractice\Easy Questions\bin\Debug\System.ValueTuple.dll
 C:\LeetCodePractice\Easy Questions\bin\Debug\FluentAssertions.pdb
 C:\LeetCodePractice\Easy Questions\bin\Debug\FluentAssertions.xml
 C:\LeetCodePractice\Easy Questions\bin\Debug\System.ValueTuple.xml
+C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\Easy Questions.dll
+C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\Easy Questions.pdb
 C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\FluentAssertions.dll
+C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.dll
 C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\System.ValueTuple.dll
 C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\FluentAssertions.pdb
 C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\FluentAssertions.xml
+C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.pdb
+C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\nunit.framework.xml
 C:\LeetCodePractice\LeetCodePractice\Easy Questions\bin\Debug\System.ValueTuple.xml
-C:\LeetCodePractice\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.csprojResolveAssemblyReference.cache
+C:\LeetCodePractice\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.dll
+C:\LeetCodePractice\LeetCodePractice\Easy Questions\obj\Debug\Easy Questions.pdb
