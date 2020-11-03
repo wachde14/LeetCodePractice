@@ -59,6 +59,7 @@
     <Compile Include="JewelsAndStones.cs" />
     <Compile Include="LengthOfLastWord.cs" />
     <Compile Include="MergeSortedArrays.cs" />
+    <Compile Include="NeedleInHaystack.cs" />
     <Compile Include="PowerOfTwo.cs" />
     <Compile Include="PrintSpiralMatrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
