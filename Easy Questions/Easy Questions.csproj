@@ -58,6 +58,7 @@
     <Compile Include="IsomorphicStrings.cs" />
     <Compile Include="JewelsAndStones.cs" />
     <Compile Include="LengthOfLastWord.cs" />
+    <Compile Include="LuckyInteger.cs" />
     <Compile Include="MergeSortedArrays.cs" />
     <Compile Include="NeedleInHaystack.cs" />
     <Compile Include="PowerOfTwo.cs" />
