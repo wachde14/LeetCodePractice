@@ -59,6 +59,7 @@
     <Compile Include="ContainerWithMostWater.cs" />
     <Compile Include="DataStructures\ListNode.cs" />
     <Compile Include="FindAllPossiblePasswords.cs" />
+    <Compile Include="MaximumSubarray.cs" />
     <Compile Include="LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="PasswordValidator.cs" />
     <Compile Include="PhoneNumberGenerator.cs" />
