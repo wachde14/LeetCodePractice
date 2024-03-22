@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace Medium_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given n non-negative integers a1, a2, ..., an , where each represents a point

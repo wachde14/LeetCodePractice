@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System.Collections.Generic;
 
-namespace Medium_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// <p>Verify if the given password is valid/invalid:

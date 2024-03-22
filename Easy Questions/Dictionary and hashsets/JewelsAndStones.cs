@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using NUnit.Framework;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// You're given strings J representing the types of stones that are jewels, and S representing

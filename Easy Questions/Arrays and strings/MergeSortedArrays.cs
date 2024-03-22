@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given two sorted integer arrays, merge them into one sorted array.

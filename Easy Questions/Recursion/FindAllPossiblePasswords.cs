@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Medium_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Find all the possible passwords, given the length of the password and 

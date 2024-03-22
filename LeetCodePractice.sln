@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Questions", "Easy Questions\Easy Questions.csproj", "{7B5EFDBB-6205-4CDC-B899-7402C385FCAF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium Questions", "Medium Questions\Medium Questions.csproj", "{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy and Medium Questions", "Easy Questions\Easy and Medium Questions.csproj", "{7B5EFDBB-6205-4CDC-B899-7402C385FCAF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hard Questions", "Hard Questions\Hard Questions.csproj", "{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}"
 EndProject
@@ -21,10 +19,6 @@ Global
 		{7B5EFDBB-6205-4CDC-B899-7402C385FCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B5EFDBB-6205-4CDC-B899-7402C385FCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B5EFDBB-6205-4CDC-B899-7402C385FCAF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1FE6DCE2-ABDE-4419-8B85-3F8C8A32B7B8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44009912-B4B7-4B5C-8DCB-7A620AD6BAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU

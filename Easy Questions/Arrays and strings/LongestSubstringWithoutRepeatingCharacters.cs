@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Medium_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given a string, find the length of the longest substring without repeating characters.
@@ -37,7 +37,7 @@ namespace Medium_Questions
     }
 
     [TestFixture]
-    class TwoSumTests
+    class LongestSubstringWithoutRepeatingCharactersTests
     {
         LongestSubstringWithoutRepeatingCharacters _practice = new LongestSubstringWithoutRepeatingCharacters();
 

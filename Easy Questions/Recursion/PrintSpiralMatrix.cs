@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     public class PrintSpiralMatrix
     {

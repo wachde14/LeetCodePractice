@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using NUnit.Framework;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Count the number of prime numbers less than a non-negative number.

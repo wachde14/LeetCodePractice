@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given an array of integers, return indices of the two numbers such that they add up to a specific target.

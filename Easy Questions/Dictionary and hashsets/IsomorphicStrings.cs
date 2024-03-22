@@ -2,7 +2,7 @@
 using System.Text;
 using NUnit.Framework;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given two strings s and t, determine if they are isomorphic.

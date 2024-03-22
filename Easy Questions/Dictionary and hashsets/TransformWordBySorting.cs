@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Medium_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Write a function that when given two words, shows every step it takes to turn 

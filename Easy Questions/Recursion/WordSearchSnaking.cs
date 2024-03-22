@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Medium_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Create a method that can determine whether a word can be found

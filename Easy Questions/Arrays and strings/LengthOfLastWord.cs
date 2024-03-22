@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.

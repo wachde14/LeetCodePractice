@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given a 32-bit signed integer, reverse digits of an integer wihtout casting to a string.

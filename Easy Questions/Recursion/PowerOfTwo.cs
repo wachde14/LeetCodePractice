@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Easy_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given an integer, write a function to determine if it is a power of two.

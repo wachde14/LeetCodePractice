@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
 
-namespace Medium_Questions
+namespace Easy_and_Medium_Questions
 {
     /// <summary>
     /// Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.

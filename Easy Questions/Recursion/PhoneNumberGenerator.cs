@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System.Collections.Generic;
 
-namespace Medium_Questions
+namespace Easy_and_Medium_Questions
 {
     class PhoneNumberGenerator
     {

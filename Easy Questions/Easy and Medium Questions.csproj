@@ -64,7 +64,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays and strings\ContainerWithMostWater.cs" />
     <Compile Include="Arrays and strings\CountPrimes.cs" />
+    <Compile Include="Arrays and strings\Kadane%27s Algorithm\MaximumSubarray.cs" />
+    <Compile Include="Arrays and strings\LongestSubstringWithoutRepeatingCharacters.cs" />
+    <Compile Include="Arrays and strings\MaximumSubarray.cs" />
+    <Compile Include="Arrays and strings\PasswordValidator.cs" />
+    <Compile Include="Dictionary and hashsets\ColorfulNumbers.cs" />
+    <Compile Include="Dictionary and hashsets\ColorfulRainbowNumbers.cs" />
     <Compile Include="Dictionary and hashsets\FindCommonCharacters.cs" />
     <Compile Include="Dictionary and hashsets\IsomorphicStrings.cs" />
     <Compile Include="Dictionary and hashsets\JewelsAndStones.cs" />
@@ -72,12 +79,21 @@
     <Compile Include="Dictionary and hashsets\LuckyInteger.cs" />
     <Compile Include="Arrays and strings\MergeSortedArrays.cs" />
     <Compile Include="Arrays and strings\NeedleInHaystack.cs" />
+    <Compile Include="Dictionary and hashsets\TransformWordBySorting.cs" />
+    <Compile Include="Heaps\KthLargestNumber.cs" />
+    <Compile Include="Linked lists\AddTwoNumbersWithLinkedList.cs" />
+    <Compile Include="Recursion\FindAllPossiblePasswords.cs" />
+    <Compile Include="Recursion\PhoneNumberGenerator.cs" />
     <Compile Include="Recursion\PowerOfTwo.cs" />
     <Compile Include="Recursion\PrintSpiralMatrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Arrays and strings\ReverseInteger.cs" />
     <Compile Include="Arrays and strings\SpecialPositionsInMatrix.cs" />
     <Compile Include="Arrays and strings\TwoSum.cs" />
+    <Compile Include="Recursion\StringPermutationsWithSpecialCharacters.cs" />
+    <Compile Include="Recursion\WordSearch.cs" />
+    <Compile Include="Recursion\WordSearchSnaking.cs" />
+    <Compile Include="Sorting\SortColors.cs" />
     <Compile Include="Stacks\ValidParentheses.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -86,6 +102,21 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Arrays and strings\Binary Search\" />
+    <Folder Include="Arrays and strings\Sliding Window\" />
+    <Folder Include="Arrays and strings\Sorting\" />
+    <Folder Include="Arrays and strings\Two Pointers\" />
+    <Folder Include="Graphs\" />
+    <Folder Include="Queues\" />
+    <Folder Include="Trees\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataStructures\DataStructures.csproj">
+      <Project>{49079dfe-4c49-4339-be1c-a5218723c5e4}</Project>
+      <Name>DataStructures</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
