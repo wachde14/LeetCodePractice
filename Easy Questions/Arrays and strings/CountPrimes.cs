@@ -41,7 +41,7 @@ namespace Easy_and_Medium_Questions
         [TestCase(7, 3)]
         [TestCase(10, 4)]
         [TestCase(100, 25)] 
-        public void TwoSum_WithVariousTestCases_ShouldReturnExpected(int input, int expectedNumberPrimesLessThanInput)
+        public void CountPrimes_WithVariousTestCases_ShouldReturnExpected(int input, int expectedNumberPrimesLessThanInput)
         {
             int result = _countPrimes.GetPrimeCount(input);
 
