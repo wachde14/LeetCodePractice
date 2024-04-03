@@ -64,6 +64,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays and strings\BestTimeToBuyAndSellStock.cs" />
     <Compile Include="Arrays and strings\Binary Search\SearchInsertPosition.cs" />
     <Compile Include="Arrays and strings\ContainerWithMostWater.cs" />
     <Compile Include="Arrays and strings\CountPrimes.cs" />
