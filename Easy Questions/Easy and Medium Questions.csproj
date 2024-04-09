@@ -72,6 +72,7 @@
     <Compile Include="Arrays and strings\LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="Arrays and strings\MaximumSubarray.cs" />
     <Compile Include="Arrays and strings\PasswordValidator.cs" />
+    <Compile Include="Arrays and strings\Two Pointers\ValidPalindrome.cs" />
     <Compile Include="Dictionary and hashsets\ColorfulNumbers.cs" />
     <Compile Include="Dictionary and hashsets\ColorfulRainbowNumbers.cs" />
     <Compile Include="Dictionary and hashsets\FindCommonCharacters.cs" />
@@ -108,7 +109,6 @@
   <ItemGroup>
     <Folder Include="Arrays and strings\Sliding Window\" />
     <Folder Include="Arrays and strings\Sorting\" />
-    <Folder Include="Arrays and strings\Two Pointers\" />
     <Folder Include="Graphs\" />
     <Folder Include="Queues\" />
     <Folder Include="Trees\" />
